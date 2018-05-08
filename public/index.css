@@ -1,0 +1,33 @@
+body {background-color: lightblue;
+    margin: 100px 150px 100px 150px;}
+h1 {text-decoration: underline;
+    text-align:center;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;}
+h6 {text-align:justify;
+    font-size: 20px;
+    font-weight: bold;}
+ul {font-size: 20px;
+    font-weight: bold;}
+li {font-size: 17px;
+    font-weight: normal}
+h4 {font-size: 20px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px,}
+h5 {text-align:justify;
+    font-size: 20px;
+    max-width: 500px; height: 200px;
+    margin-top: 50px;}
+h7 {font-size: 20px;
+    margin-bottom: 40px;}
+h8 {font-size: 20px;
+    font-weight: normal;
+    text-align: justify;
+    max-width: 500px; height: 200px;
+
+    float:left;}
+img {float:right;
+    padding: top: 30px 15px 15px 30px;}
+a:hover{color: red;}
